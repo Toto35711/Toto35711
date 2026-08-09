@@ -8,4 +8,3 @@
 ![snake gif](https://github.com/Toto35711/Toto35711/blob/output/github-snake-dark.svg)
 
 ![toto35711's Streak](https://github-readme-streak-stats.herokuapp.com/?user=toto35711&theme=vue-dark&hide_border=true)
-![toto35711's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toto35711&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
